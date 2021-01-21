@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.reciproci.hob",
+    "sha256_cert_fingerprints":
+    ["14:BF:53:28:1D:8C:F6:58:B8:ED:B9:52:BE:18:93:80:59:B9:78:E9:D7:9A:FB:63:DA:E6:61:7D:C9:A9:AD:A7"]
+  }
+}]
